@@ -96,5 +96,4 @@ Here is a brief code example for embedding and FAISS indexing:
 langchain-week1-project/
 │
 ├── SS__Langchain_Week1_Project.ipynb  # Colab notebook with project code and explanations
-├── requirements.txt                   # List of dependencies
 └── README.md                          # Project overview and setup instructions
